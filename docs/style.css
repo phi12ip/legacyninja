@@ -1,3 +1,7 @@
 .text-large {
-    font-size: 2em;
-  }
+  font-size: 2em;
+}
+
+.title {
+  font-family: "Inconsolata", monospace;
+}
