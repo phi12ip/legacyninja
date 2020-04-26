@@ -3,7 +3,7 @@ let x = 0;
 let y = 0;
 
 // Query the element
-const ele = document.getElementById('our-services');
+const ele = document.getElementById('our-services-bar');
 
 // Handle the mousedown event
 // that's triggered when user drags the element
